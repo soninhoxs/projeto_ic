@@ -85,6 +85,7 @@ Para garantir que o projeto fosse realizado de forma organizada e dentro do praz
 - **João Gustavo Guimaraes Pires** (*jggp*) – Responsável tanto pela montagem do robô quanto por parte da programação, garantindo que as peças e o sistema eletrônico funcionassem integrados.
 - **João Henrique dos Santos Silva** (*jhss2*) – Atuou diretamente na impressão 3D das peças e no suporte para que tudo ficasse pronto para montagem.
 - **Lucas David Lima Ferreira** (*ldlf*) – Auxiliou tanto na programação do robô quanto na montagem da estrutura física, garantindo integração entre as partes eletrônicas e mecânicas.
+- **Thales Afonso Dornelas Gomes** (*tadg*) - Contribuiu de forma geral no desenvolvimento do robô e auxiliou o grupo na organização das tarefas e na montagem do hardware.
 
 ---
 
