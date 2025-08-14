@@ -17,6 +17,7 @@ Apesar de dificuldades, especialmente na impressão 3D e com o roubo de uma peç
 - **João Gustavo Guimaraes Pires** (*jggp*)
 - **João Henrique dos Santos Silva** (*jhss2*)
 - **Lucas David Lima Ferreira** (*ldlf*)
+- **Thales Afonso Dornelas Gomes** (*tadg*)
 
 ---
 
