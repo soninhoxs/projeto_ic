@@ -88,18 +88,20 @@ Para garantir que o projeto fosse realizado de forma organizada e dentro do praz
 ---
 
 ## ✅ Resultado Final
-Ao final do projeto, conseguimos entregar um robô inspirado no Wall-E, com movimentação básica para frente e curvas, controlado por um **Arduino UNO** e alimentado por bateria recarregável.  
+
+Ao final do projeto, conseguimos entregar um robô inspirado no Wall-E, com movimentação básica para frente e curvas, controlado por um Arduino UNO e alimentado por bateria recarregável.
 Apesar de não termos seguido exatamente cada detalhe estético do personagem original, conseguimos manter elementos visuais que lembram a proposta inicial, adaptando o design para algo viável dentro das nossas limitações de tempo e recursos.
 
-A parte de eletrônica e programação funcionou de forma estável, principalmente graças ao que aprendemos nas atividades no **Tinkercad** e nas práticas presenciais. Já a estrutura física, feita com peças impressas em 3D, foi onde encontramos mais dificuldades — especialmente devido aos problemas de encaixe e ao incidente do roubo de uma das peças no laboratório, que nos obrigou a refazer parte do trabalho no prazo final.
+A parte de eletrônica e programação funcionou de forma estável, principalmente graças ao que aprendemos nas atividades no Tinkercad e nas práticas presenciais. Já a estrutura física, feita com peças impressas em 3D, foi onde encontramos mais dificuldades, especialmente devido aos problemas de encaixe e ao incidente do roubo de uma das peças no laboratório, que nos obrigou a refazer parte do trabalho no prazo final.
 
 Mesmo com esses desafios, o robô cumpriu seu objetivo e atendeu às funcionalidades planejadas. O resultado não foi perfeito, mas mostrou uma evolução muito grande em relação ao que sabíamos no início do semestre.
 
 ---
 
 ## 📖 Conclusão e Aprendizados
-O projeto do robô Wall-E foi uma experiência intensa e cheia de lições. Tivemos que aprender coisas novas praticamente do zero — como a modelagem e impressão 3D — e aplicar, na prática, conceitos de eletrônica e programação em C++ que até então conhecíamos apenas na teoria.
 
-A maior lição foi perceber que **planejamento e colaboração fazem toda a diferença**. As reuniões no Discord e após as aulas de Introdução à Computação ajudaram a alinhar ideias, mesmo quando nem todos podiam estar presentes ao mesmo tempo. Cada integrante cumpriu seu papel, e isso garantiu que o projeto avançasse, mesmo diante de imprevistos como o desaparecimento de uma peça no laboratório.
+O projeto do robô Wall-E foi uma experiência intensa e cheia de lições. Tivemos que aprender coisas novas praticamente do zero, como a modelagem e impressão 3D, e aplicar, na prática, conceitos de eletrônica e programação em C++ que até então conhecíamos apenas na teoria.
 
-Além do conhecimento técnico, aprendemos a lidar com contratempos, gerenciar o tempo e buscar ajuda quando necessário — como no caso do apoio fundamental do monitor do Espaço Maker. Saímos deste projeto mais preparados e confiantes para enfrentar desafios futuros, sabendo que, com esforço e trabalho em equipe, é possível transformar uma ideia inicial em um produto real e funcional.
+A maior lição foi perceber que planejamento e colaboração fazem toda a diferença. As reuniões no Discord e após as aulas de Introdução à Computação ajudaram a alinhar ideias, mesmo quando nem todos podiam estar presentes ao mesmo tempo. Cada integrante cumpriu seu papel, e isso garantiu que o projeto avançasse, mesmo diante de imprevistos como o desaparecimento de uma peça no laboratório.
+
+Além do conhecimento técnico, aprendemos a lidar com contratempos, gerenciar o tempo e buscar ajuda quando necessário, como no caso do apoio fundamental do monitor do Espaço Maker. Saímos deste projeto mais preparados e confiantes para enfrentar desafios futuros, sabendo que, com esforço e trabalho em equipe, é possível transformar uma ideia inicial em um produto real e funcional.
